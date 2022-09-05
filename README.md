@@ -1,4 +1,4 @@
-# *** Demonstrate Li-fi communication by transmitting and receiving text messages***
+# *Demonstrate Li-fi communication by transmitting and receiving text messages*
 - Raspberry Pi takes text message input from user and transmits it over light.
 - Arduino hosts a solar cell that receives the light and decodes the message sent from the Pi.
 - Ascii coding is used for transmission, with a 20 bit preamble for synchronization.
